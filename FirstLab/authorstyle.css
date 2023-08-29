@@ -1,2 +1,7 @@
 
-  
+  .col-sm-5{
+    float: left;
+  }
+  .col-sm-4{
+    float: right;
+  }
