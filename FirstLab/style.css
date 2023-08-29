@@ -52,12 +52,7 @@ section .row img {
     margin: 0;
   }
 
-  .image-list li {
-    flex: 1;
-  }
+  
 
-  .image-list figure {
-    margin: 0;
-  }
 
   
