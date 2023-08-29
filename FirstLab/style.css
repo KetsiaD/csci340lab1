@@ -62,12 +62,13 @@ section .row img {
     flex-grow: 20;
   }
 
-  h2{
+  #subtitle{
     text-align: Center;
     font-family: 'Black Ops One', cursive;
     color: beige;
   }
-  .first-paragraph{
+  #first-paragraph{
     text-align: center;
     color:beige;
+    font-family: 'Bree Serif', serif;
   }
