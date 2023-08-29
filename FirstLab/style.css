@@ -54,5 +54,8 @@ section .row img {
 
   
 
+  .image-list figure {
+    margin: 0;
+  }
 
   
