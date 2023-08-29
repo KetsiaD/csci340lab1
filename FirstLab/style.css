@@ -44,3 +44,10 @@ section .row img {
   col-md-4 {
     margin: 0 0 50px;
   }
+
+  ul{
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+  }
