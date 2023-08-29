@@ -5,8 +5,9 @@ body {
 	
 }
 
-.nouns {
+#nouns {
     font-size: 32px;
     font-family: 'Black Ops One', cursive;
     color: rgb(121,149,117);
+    text-align: center;
 }
