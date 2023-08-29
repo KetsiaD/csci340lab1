@@ -1,7 +1,7 @@
 
   .col-sm-5{
-    float: left;
+    text-align: right;
   }
   .col-sm-4{
-    float: right;
+    text-align: left;
   }
