@@ -1,0 +1,12 @@
+body {
+	height: 100%;
+    width: 100%;
+	text-align: center;
+	
+}
+
+h1 {
+	font-size: 32px;
+  font-family: "Black Ops One";
+  color: rgb(121,149,117);
+}
