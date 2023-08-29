@@ -1,3 +1,15 @@
-img{
-    align-items: left;
+.container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 30px;
 }
+.text{
+    text-align: left;
+    margin-left: 20px;
+}
+ img{
+    flex:1;
+    max-width: 60%;
+    text-align: right;
+ }
