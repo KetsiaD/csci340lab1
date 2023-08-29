@@ -60,7 +60,4 @@ section .row img {
     margin: 0;
   }
 
-  .image-list img {
-    max-width: 500%;
-    height: auto;
-  }
+  
