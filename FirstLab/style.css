@@ -33,7 +33,7 @@ header nav {
     justify-content: flex-end;
   }
 h3{
-    color:rgb(121,149,117);;
+    color:rgb(121,149,117);
 }
 
 section .row img {
@@ -71,4 +71,8 @@ section .row img {
     text-align: center;
     color:beige;
     font-family: 'Bree Serif', serif;
+  }
+  #learn-more{
+    font-family: 'Fjalla One', sans-serif;
+    color:rgb(121,149,117);
   }
