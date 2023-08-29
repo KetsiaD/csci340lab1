@@ -19,3 +19,17 @@ body {
 	margin: 30px;
 }
 
+header {
+    padding: 40px 0;
+}
+
+header .row{
+  display: flex;
+  align-items: center;
+}
+
+header nav {
+    display: flex;
+    justify-content: flex-end;
+  }
+
