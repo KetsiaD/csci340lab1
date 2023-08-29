@@ -45,9 +45,22 @@ section .row img {
     margin: 0 0 50px;
   }
 
-  ul{
+  .image-list{
     list-style: none;
     display: flex;
     padding: 0;
     margin: 0;
+  }
+
+  .image-list li {
+    flex: 1;
+  }
+
+  .image-list figure {
+    margin: 0;
+  }
+
+  .image-list img {
+    max-width: 100%;
+    height: auto;
   }
