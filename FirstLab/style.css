@@ -14,7 +14,7 @@ body {
 .main-paragraphs{
     background-image: url("praying.jpg");
     background-size: cover;
-    color: beige;
+    color: rgb(252, 252, 251);
     padding: 250px 0;
 	margin: 30px;
 }
